@@ -9,3 +9,10 @@
 # 3. output_parser 
 ### StrOutputParser()
 
+![img.png](img.png)
+
+
+## Reference  
+ - [LangChain Docs](https://python.langchain.com/v0.1/docs/expression_language/get_started/)
+
+[Markdown Editor Dillinger](https://dillinger.io/)
