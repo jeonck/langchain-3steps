@@ -9,7 +9,8 @@
 # 3. output_parser 
 ### StrOutputParser()
 
-![img.png](img.png)
+<img width="829" alt="image" src="https://github.com/jeonck/langchain-3steps/assets/11763994/fc5d3236-8af4-40d4-b5cf-681c819f6699">
+
 
 
 ## Reference  
